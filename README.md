@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vignesh Shankar </h1>
+# Hi 👋, I'm Vignesh Shankar
 
-# Software Developer & Security Analyst | Building [VigneshaCodes](https://github.com/vigneshacodes) 
+## Software Developer & Security Analyst | Building [VigneshaCodes](https://github.com/vigneshacodes) 
 
-## - 🔭 I’m currently building VigneshaCodes
-## - 🌱 I’m currently learning Full Stack Devlopment & Cyber Security 
-## - 👯 Learning and Revamping with [Guvi](https://www.guvi.in/)
-## - 💬 Ask me about Software Development , Information Security ,....
+ - 🔭 I’m currently building VigneshaCodes
+ - 🌱 I’m currently learning Full Stack Devlopment & Cyber Security 
+ - 👯 Learning and Revamping with [Guvi](https://www.guvi.in/)
+ - 💬 Ask me about Software Development , Information Security ,....
 
 <br/>
 
