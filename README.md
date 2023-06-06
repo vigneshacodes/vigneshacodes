@@ -1,13 +1,12 @@
-# Hi 👋, I'm Vignesh Shankar
+<h1 align="center">Hi 👋, I'm Vignesh Shankar</h1>
 
-## Software Developer & Security Analyst | Building [VigneshaCodes](https://github.com/vigneshacodes) 
+# Software Developer & Security Analyst | Building [VigneshaCodes](https://github.com/vigneshacodes) &nbsp;
 
- - 🔭 I’m currently building VigneshaCodes
- - 🌱 I’m currently learning Full Stack Devlopment & Cyber Security 
- - 👯 Learning and Revamping with [Guvi](https://www.guvi.in/)
- - 💬 Ask me about Software Development , Information Security ,....
-
-<br/>
+### 🔭 I’m currently building VigneshaCodes
+### 🌱 I’m currently learning Full Stack Devlopment & Cyber Security 
+### 👯 Learning and Revamping with [Guvi](https://www.guvi.in/)
+### 💬 Ask me about Software Development , Information Security ,....
+  <br/>
 
 ## 💻 Tech Stack
 <br/>
@@ -28,12 +27,16 @@
 
 <br/>
 
+## 📊 My Github Stats
 
+  <br/>
+    <a href="https://github.com/vigneshacodes/github-readme-stats"><img alt="vigneshacodes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vigneshacodes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/vigneshacodes/github-readme-stats"><img alt="vigneshacodes's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshacodes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  
 ## Connect with me:
 <p align="center">
-
-<a href = "https://www.instagram.com/vigneshacodes/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.linkedin.com/in/vigneshacodes/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/vigneshacodes"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
+<a href = "https://www.instagram.com/vigneshacodes/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
